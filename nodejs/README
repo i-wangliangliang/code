@@ -1,0 +1,6 @@
+nodejs下的代码是入门nodejs的代码。
+源码来自于菜鸟教程：https://www.runoob.com/nodejs/nodejs-tutorial.html。
+
+当前学习nodejs不是为了深入学习其技术，有两点主要原因：
+1、了解nodejs使用方式，学习其基本语法， 拓展知识面；
+2、由于ELK与nodejs有关系， 最近在做ELK项目，借此机会进一步学习nodejs，为ELK项目做准备。
